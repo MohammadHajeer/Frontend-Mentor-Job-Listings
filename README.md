@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/MohammadHajeer/Frontend-Mentor-Job-Listings
+- Live Site URL: https://MohammadHajeer.github.io/Frontend-Mentor-Job-Listings
 
 ## My process
 
