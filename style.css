@@ -50,14 +50,14 @@ a {
 /* Start Header */
 .header-background {
   height: 120px;
+  background-image: url("./images/bg-header-desktop.svg");
   background-color: var(--primary-color);
-  background-image: url("/images/bg-header-desktop.svg");
   background-position: center;
   position: relative;
 }
 @media (max-width: 767px) {
   .header-background  {
-    background-image: url("/images/bg-header-mobile.svg");
+    background-image: url("./images/bg-header-mobile.svg");
   }
 }
 
