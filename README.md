@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/Desktop.jpeg)
-![](./design/Mobile.jpeg)
+![Desktop](./screenshots/Desktop-Version.jpeg)
+![Mobile](./screenshots/Mobile-Version.png)
 
 
 ### Links
@@ -52,6 +52,7 @@ I need to focus on writing a clear code
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/MohammadHajeer)
+- Website - [Mohammad Hajeer](https://mohammadhajeer.github.io/Portfolio)
+- Frontend Mentor - [@MohammadHajeer](https://www.frontendmentor.io/profile/MohammadHajeer)
 
 
